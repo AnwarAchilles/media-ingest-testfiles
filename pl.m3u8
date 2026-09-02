@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+https://oob.rsjcode.cc/c/muxhls-7fad60/seg0.ts
+#EXT-X-ENDLIST
